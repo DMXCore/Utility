@@ -1,2 +1,2 @@
-# Utility_Issues
-DMX utility for sACN/E1.31 and ArtNet
+# Public issues for DMX Core Utility
+This is where bug reports and feature requests can be added and tracked for the DMX Core Utility
